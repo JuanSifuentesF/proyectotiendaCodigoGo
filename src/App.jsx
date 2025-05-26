@@ -1,14 +1,8 @@
+import { Router } from "./router/Router"
 
-import './App.css'
-
-function App() {
-
-
-  return (
-    <>
-      <h1 className={"text-shadow-teal-700 text-violet-600"}>EMPEZANDO PROYECTO</h1>
-    </>
-  )
-}
+ function App() {
+  
+  return <Router/>
+ }
 
 export default App
