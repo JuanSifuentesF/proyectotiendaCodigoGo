@@ -1,4 +1,4 @@
-// src/App.jsx
+
 import { ProductCard } from "@/components/ui/Product/Card"; 
 import { Carrousel } from "@/components/ui/Product/Carrousel";
 

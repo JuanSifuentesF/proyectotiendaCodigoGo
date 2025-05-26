@@ -37,7 +37,7 @@ export const Carrousel = () => {
             <img
               src={product.image}
               alt={product.name}
-              className="w-full h-[300px] sm:h-[400px] md:h-[500px] object-cover " // 👈 rounded agregado
+              className="w-full h-[300px] sm:h-[400px] md:h-[500px] object-cover " 
             />
             <div className="absolute bottom-4 left-4 bg-black/50 text-white px-3 py-1 rounded">
               {product.name}
